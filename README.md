@@ -54,12 +54,15 @@
 
 ---
 
+
+
 ## 🏆 ACHIEVEMENTS & TROPHIES
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Raj2801&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Raj2801&theme=radical&column=6&margin-w=15&no-bg=true&no-frame=false" />
 </p>
 
 ---
+
 
 ## 📈 CONTRIBUTION FLOW
 <p align="center">
