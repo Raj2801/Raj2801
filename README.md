@@ -1,73 +1,87 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:FF4B2B,100:FF416C&height=250&section=header&text=RAJWARDHAN%20PRATAP%20SINGH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=240&section=header&text=RAJWARDHAN%20PRATAP%20SINGH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<h1 align="center">SYSTEM ARCHITECT | BACKEND DOMINANCE</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF4B2B&center=true&vCenter=true&width=700&lines=Full-Stack+Architect;Django+%26+Python+Specialist;Java+Enthusiast;Building+Scalable+Systems;Savage+Code+%7C+Killer+Logic"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=Backend+Engineer;Django+Elite;Python+Specialist;Java+Data+Structures;Building+The+Future"/>
 </p>
 
 ---
 
-## ⚡ THE MISSION
-**Turning abstract logic into high-performance reality.** I’m a 2nd-year developer focused on dominating the backend space with **Python/Django** while refining my expertise in **Java** and high-level Data Structures. I don’t just write code; I build systems that scale.
+## ⚡ THE BLUEPRINT
+✨ **High-Performance Architect** focusing on scalable backend systems.  
+💻 Currently mastering the **Python & Django** ecosystem.  
+📚 Deep-diving into **Java & Data Structures** for elite-level optimization.  
+🤝 Always hunting for **high-impact collaborations** on complex builds.  
+🔥 **Mantra:** *If the code isn't efficient, it's just noise.*
 
-* 🔭 **Focus:** Scalable Backend Architectures & System Design
-* 🔥 **Current Grind:** Mastering Java for enterprise-grade solutions
-* ⚔️ **Status:** Open to high-impact collaborations and real-world challenges
-* 💎 **Core Philosophy:** Logic over syntax. Speed over everything.
+---
+
+## 🌐 DIRECT CONNECT
+<p align="center">
+<a href="https://instagram.com/your_instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your_email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🛠️ TECH ARSENAL
 
-### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,java,js,html,css&theme=dark" />
-</p>
-
-### ⚙️ Tools & Environment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,bash&theme=dark" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,java,mysql,html,css,js,git,github,vscode,postman,bash&theme=dark"/>
 </p>
 
 ---
 
-## 📊 BATTLE STATS
-
+## 📊 BATTLE ANALYTICS
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj2801&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4B2B&text_color=ffffff&icon_color=FF4B2B" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj2801&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4B2B&fire=FF4B2B&currStreakLabel=FF4B2B" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj2801&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj2801&theme=radical&hide_border=true&background=0D1117&sideNums=FF3131&fire=FF3131"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2801&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4B2B&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2801&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131"/>
 </p>
 
 ---
 
 ## 🏆 ACHIEVEMENTS & TROPHIES
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raj2801&theme=highcontrast&no-frame=true&margin-w=15&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Raj2801&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15"/>
 </p>
 
 ---
 
 ## 📈 CONTRIBUTION FLOW
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj2801&theme=react-dark&bg_color=0D1117&hide_border=true&color=FF4B2B" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj2801&theme=react-dark&bg_color=0D1117&hide_border=true&color=FF3131"/>
 </p>
 
 ---
 
-## 🔗 CONNECT WITH THE ARCHITECT
+## 🐍 THE CONTRIBUTION SNAKE
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/your_instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+---
+
+## ✨ INTELLECT
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=FF3131"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF4B2B&height=100&section=footer&text=CODE%20NEVER%20SLEEPS&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=footer&text=END%20OF%20LINE&fontSize=20"/>
 </p>
