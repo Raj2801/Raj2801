@@ -44,29 +44,27 @@
 
 ## 📊 BATTLE ANALYTICS
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj2801&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj2801&theme=radical&hide_border=true&background=0D1117&sideNums=FF3131&fire=FF3131"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj2801&show_icons=true&theme=radical&hide_border=true&title_color=FF3131&icon_color=FF3131" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj2801&theme=radical&hide_border=true&sideNums=FF3131&fire=FF3131" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2801&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2801&layout=compact&theme=radical&hide_border=true&title_color=FF3131" />
 </p>
-
 ---
-
 
 
 ## 🏆 ACHIEVEMENTS & TROPHIES
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Raj2801&theme=radical&column=6&margin-w=15&no-bg=true&no-frame=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Raj2801&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-
 ## 📈 CONTRIBUTION FLOW
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj2801&theme=react-dark&bg_color=0D1117&hide_border=true&color=FF3131"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj2801&theme=github-dark-orange&hide_border=true" />
 </p>
 
 ---
