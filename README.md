@@ -1,97 +1,73 @@
-<!-- PREMIUM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Rajwardhan%20Pratap%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:FF4B2B,100:FF416C&height=250&section=header&text=RAJWARDHAN%20PRATAP%20SINGH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Rajwardhan</h1>
-<h3 align="center">🚀 Backend Developer | Django & Python | Tech Explorer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=00E6FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Django+Specialist;Python+Enthusiast;Learning+Java;Building+Real+World+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF4B2B&center=true&vCenter=true&width=700&lines=Full-Stack+Architect;Django+%26+Python+Specialist;Java+Enthusiast;Building+Scalable+Systems;Savage+Code+%7C+Killer+Logic"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ THE MISSION
+**Turning abstract logic into high-performance reality.** I’m a 2nd-year developer focused on dominating the backend space with **Python/Django** while refining my expertise in **Java** and high-level Data Structures. I don’t just write code; I build systems that scale.
 
-✨ Passionate about building backend systems and real-world applications  
-💻 Currently working with **Python & Django**  
-📚 Learning **Java & Data Structures**  
-🤝 Open to collaboration on beginner-friendly projects  
-⚡ Fun fact: *I turn ideas into working code*
+* 🔭 **Focus:** Scalable Backend Architectures & System Design
+* 🔥 **Current Grind:** Mastering Java for enterprise-grade solutions
+* ⚔️ **Status:** Open to high-impact collaborations and real-world challenges
+* 💎 **Core Philosophy:** Logic over syntax. Speed over everything.
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ TECH ARSENAL
 
-<p align="center">
-<a href="https://instagram.com/your_instagram">
-<img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:your_email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ff3c3c?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,java,js,html,css&theme=dark" />
+</p>
+
+### ⚙️ Tools & Environment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,bash&theme=dark" />
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## 📊 BATTLE STATS
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,java,html,css,js,git,github,vscode&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj2801&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4B2B&text_color=ffffff&icon_color=FF4B2B" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj2801&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4B2B&fire=FF4B2B&currStreakLabel=FF4B2B" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2801&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4B2B&text_color=ffffff" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
+## 🏆 ACHIEVEMENTS & TROPHIES
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Raj2801&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj2801&theme=radical&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2801&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Raj2801&theme=highcontrast&no-frame=true&margin-w=15&column=6" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
+## 📈 CONTRIBUTION FLOW
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj2801&theme=react-dark&bg_color=0D1117&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj2801&theme=react-dark&bg_color=0D1117&hide_border=true&color=FF4B2B" />
 </p>
 
 ---
 
-## 🏆 Achievements
-
+## 🔗 CONNECT WITH THE ARCHITECT
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Raj2801&theme=onestar&no-frame=true&row=1&column=6"/>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/your_instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## ✨ Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF4B2B&height=100&section=footer&text=CODE%20NEVER%20SLEEPS&fontSize=30" />
 </p>
